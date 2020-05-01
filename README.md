@@ -1,1 +1,2 @@
-# Simple-responsive-calculator-js-flexbox
+
+<img src="./images/flyer.png">
